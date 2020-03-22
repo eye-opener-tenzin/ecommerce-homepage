@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eye-opener-tenzin/ecommerce.git/static/css/main.3d6cb93d.chunk.css",
+    "main.js": "/eye-opener-tenzin/ecommerce.git/static/js/main.d8be9074.chunk.js",
+    "main.js.map": "/eye-opener-tenzin/ecommerce.git/static/js/main.d8be9074.chunk.js.map",
+    "runtime-main.js": "/eye-opener-tenzin/ecommerce.git/static/js/runtime-main.dcc1c614.js",
+    "runtime-main.js.map": "/eye-opener-tenzin/ecommerce.git/static/js/runtime-main.dcc1c614.js.map",
+    "static/js/2.7aa7f027.chunk.js": "/eye-opener-tenzin/ecommerce.git/static/js/2.7aa7f027.chunk.js",
+    "static/js/2.7aa7f027.chunk.js.map": "/eye-opener-tenzin/ecommerce.git/static/js/2.7aa7f027.chunk.js.map",
+    "index.html": "/eye-opener-tenzin/ecommerce.git/index.html",
+    "precache-manifest.ae92a42e8fd623278bdb0397a954b55d.js": "/eye-opener-tenzin/ecommerce.git/precache-manifest.ae92a42e8fd623278bdb0397a954b55d.js",
+    "service-worker.js": "/eye-opener-tenzin/ecommerce.git/service-worker.js",
+    "static/css/main.3d6cb93d.chunk.css.map": "/eye-opener-tenzin/ecommerce.git/static/css/main.3d6cb93d.chunk.css.map",
+    "static/js/2.7aa7f027.chunk.js.LICENSE.txt": "/eye-opener-tenzin/ecommerce.git/static/js/2.7aa7f027.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/eye-opener-tenzin/ecommerce.git/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc1c614.js",
+    "static/js/2.7aa7f027.chunk.js",
+    "static/css/main.3d6cb93d.chunk.css",
+    "static/js/main.d8be9074.chunk.js"
+  ]
+}
