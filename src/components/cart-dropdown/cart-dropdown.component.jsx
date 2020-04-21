@@ -21,7 +21,7 @@ const CartDropdown = ({ cartItems }) => (
 );
 
 const mapStateToProps = state => ({
-    cartItemse: selectCartItems(state)
+    cartItems: selectCartItems(state)
 })
 
 export default connect(mapStateToProps)(CartDropdown);
